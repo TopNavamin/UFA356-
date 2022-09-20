@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "webpanancasino:toggle"
   },
-  "repository": "https://github.com/gnopymark/webpanancasino",
+  "repository": "https://github.com/TopNavamin/UFA356-",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
