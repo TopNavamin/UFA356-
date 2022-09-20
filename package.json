@@ -1,0 +1,16 @@
+{
+  "name": "UFA356 ทางเข้า",
+  "main": "./lib/webpanancasino",
+  "version": "0.1.1",
+  "description": "UFA356 ทางเข้า ศูนย์รวม เกมคาสิโน แทงบอลออนไลน์ แจกสูตรบาคาร่า ฝากถอนผ่านหน้าเว็บไซต์ บริการตลอด 24 ชม สมัครพร้อมรับโบนัสได้ @ufa88v3",
+  "keywords": [
+  "UFA356 ทางเข้า"
+  ],
+  "activationCommands": {
+    "atom-workspace": "webpanancasino:toggle"
+  },
+  "repository": "https://github.com/gnopymark/webpanancasino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
