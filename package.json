@@ -6,9 +6,6 @@
   "keywords": [
   "UFA356 ทางเข้า"
   ],
-  "activationCommands": {
-    "atom-workspace": "webpanancasino:toggle"
-  },
   "repository": "https://github.com/TopNavamin/UFA356-",
   "license": "MIT",
   "engines": {
